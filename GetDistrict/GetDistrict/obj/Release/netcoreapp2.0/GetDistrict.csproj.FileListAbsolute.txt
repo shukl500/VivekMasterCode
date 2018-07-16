@@ -1,0 +1,11 @@
+C:\Users\VS00356391\source\repos\GetDistrict\GetDistrict\bin\Release\netcoreapp2.0\GetDistrict.deps.json
+C:\Users\VS00356391\source\repos\GetDistrict\GetDistrict\bin\Release\netcoreapp2.0\GetDistrict.runtimeconfig.json
+C:\Users\VS00356391\source\repos\GetDistrict\GetDistrict\bin\Release\netcoreapp2.0\GetDistrict.runtimeconfig.dev.json
+C:\Users\VS00356391\source\repos\GetDistrict\GetDistrict\bin\Release\netcoreapp2.0\GetDistrict.dll
+C:\Users\VS00356391\source\repos\GetDistrict\GetDistrict\bin\Release\netcoreapp2.0\GetDistrict.pdb
+C:\Users\VS00356391\source\repos\GetDistrict\GetDistrict\obj\Release\netcoreapp2.0\GetDistrict.csprojResolveAssemblyReference.cache
+C:\Users\VS00356391\source\repos\GetDistrict\GetDistrict\obj\Release\netcoreapp2.0\GetDistrict.csproj.CoreCompileInputs.cache
+C:\Users\VS00356391\source\repos\GetDistrict\GetDistrict\obj\Release\netcoreapp2.0\GetDistrict.AssemblyInfoInputs.cache
+C:\Users\VS00356391\source\repos\GetDistrict\GetDistrict\obj\Release\netcoreapp2.0\GetDistrict.AssemblyInfo.cs
+C:\Users\VS00356391\source\repos\GetDistrict\GetDistrict\obj\Release\netcoreapp2.0\GetDistrict.dll
+C:\Users\VS00356391\source\repos\GetDistrict\GetDistrict\obj\Release\netcoreapp2.0\GetDistrict.pdb

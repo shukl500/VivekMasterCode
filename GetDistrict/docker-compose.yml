@@ -1,0 +1,8 @@
+version: '3'
+
+services:
+  getdistrict:
+    image: getdistrict
+    build:
+      context: .
+      dockerfile: GetDistrict\Dockerfile
