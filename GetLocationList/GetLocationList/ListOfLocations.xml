@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<District>
+  <Amsterdam>
+    <Name>Anne Frank House</Name>
+    <Name>Rijksmuseum</Name>
+    <Name>Van Gogh Museum</Name>
+    <Name>Dam Square</Name>
+  </Amsterdam>
+  <Den>
+    <Name>Binnenhof</Name>
+    <Name>Madurodam</Name>
+    <Name>Mauritshuis</Name>
+    <Name>Peace Palace</Name>
+  </Den>
+  <Rotterdam>
+    <Name>Euromast</Name>
+    <Name>Cube house</Name>
+    <Name>Erasmusburg</Name>
+  </Rotterdam>
+  <Amersfoort>
+    <Name>DierenPark Amersfoort</Name>
+    <Name>Onze Lieve</Name>
+    <Name>Koppelpoort</Name>
+  </Amersfoort>
+  <Utrecht>
+    <Name>De Haar Castle</Name>
+    <Name>Dom Tower of Utrecht</Name>
+    <Name>Railway Museum</Name>
+  </Utrecht>
+</District>

@@ -1,0 +1,11 @@
+c:\users\vs00356391\source\repos\GetLocationList\GetLocationList\bin\Debug\netcoreapp2.0\GetLocationList.deps.json
+c:\users\vs00356391\source\repos\GetLocationList\GetLocationList\bin\Debug\netcoreapp2.0\GetLocationList.runtimeconfig.json
+c:\users\vs00356391\source\repos\GetLocationList\GetLocationList\bin\Debug\netcoreapp2.0\GetLocationList.runtimeconfig.dev.json
+c:\users\vs00356391\source\repos\GetLocationList\GetLocationList\bin\Debug\netcoreapp2.0\GetLocationList.dll
+c:\users\vs00356391\source\repos\GetLocationList\GetLocationList\bin\Debug\netcoreapp2.0\GetLocationList.pdb
+c:\users\vs00356391\source\repos\GetLocationList\GetLocationList\obj\Debug\netcoreapp2.0\GetLocationList.csprojResolveAssemblyReference.cache
+c:\users\vs00356391\source\repos\GetLocationList\GetLocationList\obj\Debug\netcoreapp2.0\GetLocationList.csproj.CoreCompileInputs.cache
+c:\users\vs00356391\source\repos\GetLocationList\GetLocationList\obj\Debug\netcoreapp2.0\GetLocationList.AssemblyInfoInputs.cache
+c:\users\vs00356391\source\repos\GetLocationList\GetLocationList\obj\Debug\netcoreapp2.0\GetLocationList.AssemblyInfo.cs
+c:\users\vs00356391\source\repos\GetLocationList\GetLocationList\obj\Debug\netcoreapp2.0\GetLocationList.dll
+c:\users\vs00356391\source\repos\GetLocationList\GetLocationList\obj\Debug\netcoreapp2.0\GetLocationList.pdb
