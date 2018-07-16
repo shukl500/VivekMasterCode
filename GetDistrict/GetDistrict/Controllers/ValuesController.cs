@@ -14,23 +14,32 @@ namespace GetDistrict.Controllers
         [HttpGet]
         public IEnumerable<string> Get()
         {
-            List<string> districtName = new List<string>();
-            XmlDocument Data = new XmlDocument();
-            Data.Load("Districts.xml");
-            foreach( XmlNode singleNode in Data.DocumentElement.ChildNodes) 
+            try
             {
-               districtName.Add(singleNode.InnerText);
-            }
+                //Reading the values from the XML.
+                List<string> districtName = new List<string>();
+                XmlDocument Data = new XmlDocument();
+                Data.Load("Districts.xml");
+                foreach (XmlNode singleNode in Data.DocumentElement.ChildNodes)
+                {
+                    districtName.Add(singleNode.InnerText);
+                }
 
-            //return new string[] { "value1", "value2" };
-            return districtName.AsEnumerable();
+                return districtName.AsEnumerable();
+            }
+            catch (Exception)
+            {
+
+                return new string[] { "Error in finding the file. Please contact the adminstrator." };
+            }
+            
         }
 
         // GET api/values/5
         [HttpGet("{id}")]
         public string Get(int id)
         {
-            return "value";
+            return "This funcitonality is not yet implemnted";
         }
 
         // POST api/values
