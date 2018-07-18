@@ -9,3 +9,14 @@ C:\Users\VS00356391\source\repos\GetDistrict\GetDistrict\obj\Release\netcoreapp2
 C:\Users\VS00356391\source\repos\GetDistrict\GetDistrict\obj\Release\netcoreapp2.0\GetDistrict.AssemblyInfo.cs
 C:\Users\VS00356391\source\repos\GetDistrict\GetDistrict\obj\Release\netcoreapp2.0\GetDistrict.dll
 C:\Users\VS00356391\source\repos\GetDistrict\GetDistrict\obj\Release\netcoreapp2.0\GetDistrict.pdb
+D:\SIT_DB_BACKUP\GITTest\LocalValue\test\GetDistrict\GetDistrict\bin\Release\netcoreapp2.0\GetDistrict.deps.json
+D:\SIT_DB_BACKUP\GITTest\LocalValue\test\GetDistrict\GetDistrict\bin\Release\netcoreapp2.0\GetDistrict.runtimeconfig.json
+D:\SIT_DB_BACKUP\GITTest\LocalValue\test\GetDistrict\GetDistrict\bin\Release\netcoreapp2.0\GetDistrict.runtimeconfig.dev.json
+D:\SIT_DB_BACKUP\GITTest\LocalValue\test\GetDistrict\GetDistrict\bin\Release\netcoreapp2.0\GetDistrict.dll
+D:\SIT_DB_BACKUP\GITTest\LocalValue\test\GetDistrict\GetDistrict\bin\Release\netcoreapp2.0\GetDistrict.pdb
+D:\SIT_DB_BACKUP\GITTest\LocalValue\test\GetDistrict\GetDistrict\obj\Release\netcoreapp2.0\GetDistrict.csprojResolveAssemblyReference.cache
+D:\SIT_DB_BACKUP\GITTest\LocalValue\test\GetDistrict\GetDistrict\obj\Release\netcoreapp2.0\GetDistrict.csproj.CoreCompileInputs.cache
+D:\SIT_DB_BACKUP\GITTest\LocalValue\test\GetDistrict\GetDistrict\obj\Release\netcoreapp2.0\GetDistrict.AssemblyInfoInputs.cache
+D:\SIT_DB_BACKUP\GITTest\LocalValue\test\GetDistrict\GetDistrict\obj\Release\netcoreapp2.0\GetDistrict.AssemblyInfo.cs
+D:\SIT_DB_BACKUP\GITTest\LocalValue\test\GetDistrict\GetDistrict\obj\Release\netcoreapp2.0\GetDistrict.dll
+D:\SIT_DB_BACKUP\GITTest\LocalValue\test\GetDistrict\GetDistrict\obj\Release\netcoreapp2.0\GetDistrict.pdb

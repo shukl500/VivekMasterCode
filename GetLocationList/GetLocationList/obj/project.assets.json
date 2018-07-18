@@ -12543,11 +12543,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "c:\\users\\vs00356391\\source\\repos\\GetLocationList\\GetLocationList\\GetLocationList.csproj",
+      "projectUniqueName": "D:\\SIT_DB_BACKUP\\GITTest\\LocalValue\\test\\GetLocationList\\GetLocationList\\GetLocationList.csproj",
       "projectName": "GetLocationList",
-      "projectPath": "c:\\users\\vs00356391\\source\\repos\\GetLocationList\\GetLocationList\\GetLocationList.csproj",
+      "projectPath": "D:\\SIT_DB_BACKUP\\GITTest\\LocalValue\\test\\GetLocationList\\GetLocationList\\GetLocationList.csproj",
       "packagesPath": "C:\\Users\\VS00356391\\.nuget\\packages\\",
-      "outputPath": "c:\\users\\vs00356391\\source\\repos\\GetLocationList\\GetLocationList\\obj\\",
+      "outputPath": "D:\\SIT_DB_BACKUP\\GITTest\\LocalValue\\test\\GetLocationList\\GetLocationList\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

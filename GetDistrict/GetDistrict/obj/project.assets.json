@@ -12543,11 +12543,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "C:\\Users\\VS00356391\\source\\repos\\GetDistrict\\GetDistrict\\GetDistrict.csproj",
+      "projectUniqueName": "D:\\SIT_DB_BACKUP\\GITTest\\LocalValue\\test\\GetDistrict\\GetDistrict\\GetDistrict.csproj",
       "projectName": "GetDistrict",
-      "projectPath": "C:\\Users\\VS00356391\\source\\repos\\GetDistrict\\GetDistrict\\GetDistrict.csproj",
+      "projectPath": "D:\\SIT_DB_BACKUP\\GITTest\\LocalValue\\test\\GetDistrict\\GetDistrict\\GetDistrict.csproj",
       "packagesPath": "C:\\Users\\VS00356391\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\VS00356391\\source\\repos\\GetDistrict\\GetDistrict\\obj\\",
+      "outputPath": "D:\\SIT_DB_BACKUP\\GITTest\\LocalValue\\test\\GetDistrict\\GetDistrict\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

@@ -23,6 +23,7 @@ namespace GetLocationList.Controllers
         {
             try
             {
+                //The values will be fetched from the XML using the id provided to API.
                 List<string> ListOfLocation = new List<string>();
                 XmlDocument document = new XmlDocument();
                 document.Load("ListOfLocations.xml");
