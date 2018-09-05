@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Cities>
+  <AMS>
+    <Country>Netherlands</Country>
+    <City>Amsterdam</City>
+    <Location>
+      <Latitude>52.309069</Latitude>
+      <Longitude>4.763385</Longitude>
+    </Location>
+  </AMS>
+  <BOM>
+    <Country>India</Country>
+    <City>Bombay</City>
+    <Location>
+      <Latitude>19.089891</Latitude>
+      <Longitude>72.868047</Longitude>
+    </Location>
+  </BOM>
+  <RTM>
+    <Country>Netherlands</Country>
+    <City>Amsterdam</City>
+    <Location>
+      <Latitude>51.916667</Latitude>
+      <Longitude>4.5</Longitude>
+    </Location>
+  </RTM>
+  <DEL>
+    <Country>India</Country>
+    <City>New Dehi</City>
+    <Location>
+      <Latitude>28.556555</Latitude>
+      <Longitude>77.100789</Longitude>
+    </Location>
+  </DEL>
+  <EIN>
+    <Country>Netherlands</Country>
+    <City>Eindhoven</City>
+    <Location>
+      <Latitude>51.457953</Latitude>
+      <Longitude>5.391795</Longitude>
+    </Location>
+  </EIN>
+  <CGN>
+    <Country>Germany</Country>
+    <City>Cologne</City>
+    <Location>
+      <Latitude>50.878363</Latitude>
+      <Longitude>7.122224</Longitude>
+    </Location>
+  </CGN>
+</Cities>
+

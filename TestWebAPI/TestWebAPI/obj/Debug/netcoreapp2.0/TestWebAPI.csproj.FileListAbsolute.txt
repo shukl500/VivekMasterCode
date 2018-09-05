@@ -1,0 +1,11 @@
+C:\Users\VS00356391\source\repos\TestWebAPI\TestWebAPI\bin\Debug\netcoreapp2.0\TestWebAPI.deps.json
+C:\Users\VS00356391\source\repos\TestWebAPI\TestWebAPI\bin\Debug\netcoreapp2.0\TestWebAPI.runtimeconfig.json
+C:\Users\VS00356391\source\repos\TestWebAPI\TestWebAPI\bin\Debug\netcoreapp2.0\TestWebAPI.runtimeconfig.dev.json
+C:\Users\VS00356391\source\repos\TestWebAPI\TestWebAPI\bin\Debug\netcoreapp2.0\TestWebAPI.dll
+C:\Users\VS00356391\source\repos\TestWebAPI\TestWebAPI\bin\Debug\netcoreapp2.0\TestWebAPI.pdb
+C:\Users\VS00356391\source\repos\TestWebAPI\TestWebAPI\obj\Debug\netcoreapp2.0\TestWebAPI.csproj.CoreCompileInputs.cache
+C:\Users\VS00356391\source\repos\TestWebAPI\TestWebAPI\obj\Debug\netcoreapp2.0\TestWebAPI.AssemblyInfoInputs.cache
+C:\Users\VS00356391\source\repos\TestWebAPI\TestWebAPI\obj\Debug\netcoreapp2.0\TestWebAPI.AssemblyInfo.cs
+C:\Users\VS00356391\source\repos\TestWebAPI\TestWebAPI\obj\Debug\netcoreapp2.0\TestWebAPI.dll
+C:\Users\VS00356391\source\repos\TestWebAPI\TestWebAPI\obj\Debug\netcoreapp2.0\TestWebAPI.pdb
+C:\Users\VS00356391\source\repos\TestWebAPI\TestWebAPI\obj\Debug\netcoreapp2.0\TestWebAPI.csprojAssemblyReference.cache
