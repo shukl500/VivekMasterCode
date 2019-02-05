@@ -1,0 +1,42 @@
+﻿#movies img, #movie img {
+    width: 100%;
+}
+
+@media(min-width:960px) {
+    #movies .col-md-3 .well {
+        height: 390px;
+    }
+
+    #movies .col-md-3 img {
+        height: 240px;
+    }
+}
+
+#trailers trailer {
+    padding :10px ;
+    border-bottom: 1px #ccc dotted;
+    list-style: none;
+    overflow: auto;
+}
+
+#trailers .list-left {
+    float: left;
+    width: 20%;
+    height: 170px;
+}
+
+#trailers .list-left img{
+    width:100%;
+    padding:3px;
+    border: solid #ccc 1px;
+}
+
+#trailers .list-right{
+    float: right;
+    width: 75%;
+    height: 170px;
+}
+
+.cTitle {
+    color: cadetblue;
+}

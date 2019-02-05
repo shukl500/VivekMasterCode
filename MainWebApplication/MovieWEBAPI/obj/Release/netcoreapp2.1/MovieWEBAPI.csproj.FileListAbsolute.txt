@@ -1,0 +1,14 @@
+C:\Users\shukl500\source\repos\MainWebApplication\MovieWEBAPI\bin\Release\netcoreapp2.1\MovieWEBAPI.deps.json
+C:\Users\shukl500\source\repos\MainWebApplication\MovieWEBAPI\bin\Release\netcoreapp2.1\MovieWEBAPI.runtimeconfig.json
+C:\Users\shukl500\source\repos\MainWebApplication\MovieWEBAPI\bin\Release\netcoreapp2.1\MovieWEBAPI.runtimeconfig.dev.json
+C:\Users\shukl500\source\repos\MainWebApplication\MovieWEBAPI\bin\Release\netcoreapp2.1\MovieWEBAPI.dll
+C:\Users\shukl500\source\repos\MainWebApplication\MovieWEBAPI\bin\Release\netcoreapp2.1\MovieWEBAPI.pdb
+C:\Users\shukl500\source\repos\MainWebApplication\MovieWEBAPI\obj\Release\netcoreapp2.1\MovieWEBAPI.csprojAssemblyReference.cache
+C:\Users\shukl500\source\repos\MainWebApplication\MovieWEBAPI\obj\Release\netcoreapp2.1\MovieWEBAPI.csproj.CoreCompileInputs.cache
+C:\Users\shukl500\source\repos\MainWebApplication\MovieWEBAPI\obj\Release\netcoreapp2.1\MovieWEBAPI.RazorAssemblyInfo.cache
+C:\Users\shukl500\source\repos\MainWebApplication\MovieWEBAPI\obj\Release\netcoreapp2.1\MovieWEBAPI.RazorAssemblyInfo.cs
+C:\Users\shukl500\source\repos\MainWebApplication\MovieWEBAPI\obj\Release\netcoreapp2.1\MovieWEBAPI.AssemblyInfoInputs.cache
+C:\Users\shukl500\source\repos\MainWebApplication\MovieWEBAPI\obj\Release\netcoreapp2.1\MovieWEBAPI.AssemblyInfo.cs
+C:\Users\shukl500\source\repos\MainWebApplication\MovieWEBAPI\obj\Release\netcoreapp2.1\MovieWEBAPI.RazorTargetAssemblyInfo.cache
+C:\Users\shukl500\source\repos\MainWebApplication\MovieWEBAPI\obj\Release\netcoreapp2.1\MovieWEBAPI.dll
+C:\Users\shukl500\source\repos\MainWebApplication\MovieWEBAPI\obj\Release\netcoreapp2.1\MovieWEBAPI.pdb
